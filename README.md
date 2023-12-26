@@ -1,5 +1,4 @@
 # MNIST-Fashion-Classifier
-<br>
 MNIST Fashion dataset 
 <br>
 Neural network to classify fashion items
